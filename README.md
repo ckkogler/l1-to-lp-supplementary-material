@@ -6,4 +6,4 @@ This repository collects research notes on quantitative criteria for Lᵖ and co
 
 ## Contents
 
-- [A cubic criterion for continuous algebraic Bernoulli convolutions](bernoulli_algebraic_cubic.pdf): a cubic sufficient condition in terms of the algebraic degree and Mahler measure, yielding an L² density for ν_{λ²} and a continuous density for ν_λ.
+- [A cubic criterion for continuous algebraic Bernoulli convolutions](bernoulli_algebraic_cubic.pdf): a cubic sufficient condition in terms of the algebraic degree and Mahler measure, yielding an L² density for $\nu_{\lambda^2}$ and a continuous density for $\nu_\lambda$.
